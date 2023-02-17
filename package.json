@@ -1,0 +1,19 @@
+{
+    "name": "Batch",
+    "main": "main.js",
+    "author": "Kay D",
+    "version": "1.0",
+    "repository": "https://github.com/ZerioDev/Music-bot.git",
+    "description": "",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "discord-player": "^5.3.1",
+        "discord.js": "^14.1.2",
+        "express": "^4.18.1",
+        "ffmpeg-static": "^5.0.2",
+        "ms": "^3.0.0-canary.1",
+        "opusscript": "^0.0.8"
+    }
+}
