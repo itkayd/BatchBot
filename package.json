@@ -3,7 +3,7 @@
     "main": "main.js",
     "author": "Kay D",
     "version": "1.0",
-    "repository": "https://github.com/ZerioDev/Music-bot.git",
+    "repository": "https://github.com/itkadir/BatchBot.git",
     "description": "",
     "scripts": {
         "start": "node main.js"
